@@ -1,0 +1,2 @@
+3 + 4 = 7
+redirect to standard output, call printf then the file is wrote instead of printting on shell.  
